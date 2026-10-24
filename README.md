@@ -19,3 +19,5 @@ the "Deliver" stage of your Pipeline.
 
 
 Prueba de integración continua Laboratorio Juan Flores - 090006822
+
+Prueba 2 de integracion continua (La primera no envió avisos en Slack) Juan Flores - 090006822
